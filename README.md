@@ -21,7 +21,7 @@ Pour installer les librairies requises, vous pouvez utiliser la commande suivant
 ```
 
 ## Utilisation
-Le fichier `je` contient le code complet du projet commenté. Vous pouvez l'exécuter directement dans Jupyter NoteBook.
+Le fichier `Linear_regression.ipynb` contient le code complet du projet commenté. Vous pouvez l'exécuter directement dans Jupyter NoteBook.
 
 ## Auteurs
 Projet réalisé par moi même dans le cadre d'un apprentissage personnelle du machine learning.
